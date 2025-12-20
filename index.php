@@ -311,7 +311,7 @@ src="https://www.facebook.com/tr?id=881200374250979&ev=PageView&noscript=1"
                 <div class="hero-content">
                     <p class="magenta">Explore Nifty & BankNifty with Free Educational Resources</p>
                     <div class="logo">
-                        <img id="logo-image" src="logo.jpg" alt="Educational Channel Logo" loading="lazy">
+                        <img id="logo-image" src="Sourabh.jpg" alt="Educational Channel Logo" loading="lazy">
                     </div>
                     <a id="telegram-link" onclick="customEvent()" class="cta" href="#">Join Free Telegram</a>
                     <div class="feature-card">

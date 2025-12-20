@@ -331,7 +331,7 @@ src="https://www.facebook.com/tr?id=881200374250979&ev=PageView&noscript=1"
         const config = {
             pageName: "SOURABH CHOUDHARY OFFICIAL™™",
             telegramLink: "https://t.me/+UJ3Mup9g011iMjY1",
-            imageSrc: "logo.jpg"
+            imageSrc: "Sourabh.jpg"
         };
         document.addEventListener('DOMContentLoaded', function() {
             document.getElementById('page-name').textContent = config.pageName;

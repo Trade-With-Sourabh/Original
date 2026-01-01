@@ -114,14 +114,16 @@ body{
 
 <script>
 function acceptTelegram(){
-  // MAIN LANDING PAGE (PIXEL WILL FIRE THERE)
+  // MAIN LANDING PAGE
   window.location.href = "landing.html";
 }
 
 function denyTelegram(){
-  alert("Telegram is required to continue.\nटेलीग्राम आवश्यक है।");
+  // USER GOES BACK TO AD / PREVIOUS PAGE
+  window.history.back();
 }
 </script>
+
 
 </body>
 </html>
